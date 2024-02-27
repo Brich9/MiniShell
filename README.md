@@ -19,5 +19,6 @@ This project, written by Dr. Phil Nelson and administered by Dr. Yasmine Elglaly
 
 Instructions for use:
 * Insure OS is a linux based platform or running an available linux based distribution
-1. After cloning repository "make myshell" will compile all necessary files
+1. After cloning repository "make myshell" will compile all necessary files.
 2. ./myshell will run %myshell% until "exit" is prompted.
+
