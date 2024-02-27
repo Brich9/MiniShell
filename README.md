@@ -17,3 +17,7 @@ This project, written by Dr. Phil Nelson and administered by Dr. Yasmine Elglaly
    * Functionality has not been extended to quoting or backslash escaping.
 * White space is assumed to be the only way arguments are to be separated, however any number of spaces before, in between or after have been accounted for.
 
+Instructions for use:
+* Insure OS is a linux based platform or running an available linux based distribution
+1. After cloning repository "make myshell" will compile all necessary files
+2. ./myshell will run %myshell% until "exit" is prompted.
