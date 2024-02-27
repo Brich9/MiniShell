@@ -2,4 +2,5 @@
 
 
 
-## Runs a mini shell through any linux based shell or operating system
+##A replicated version of a linux based shell, Myshell written in C.
+
