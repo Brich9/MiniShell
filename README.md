@@ -12,7 +12,7 @@ This project, written by Dr. Phil Nelson and administered by Dr. Yasmine Elglaly
   * pwd
   * stat
   * touch
-  * tail (excluding tail with no file)
+  * tail (excluding tail with no file/s as a parameter)
 * Perform a basic fork-exec-wait pattern to execute all other linux commands
    * Functionality has not been extended to quoting or backslash escaping.
 * White space is assumed to be the only way arguments are to be separated, however any number of spaces before, in between or after have been accounted for.
