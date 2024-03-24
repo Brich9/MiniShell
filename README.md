@@ -3,9 +3,9 @@
 
 
 ## A replicated version of a linux based shell, Myshell, written in C.
-Emulates a linux based shell that adheres to the following restrictions and criteria:
+Emulates a linux based shell that adheres to the following criteria:
 
-* Create six built-in functions
+* Created six built-in functions:
   * exit
   * cd
   * pwd
@@ -20,4 +20,7 @@ Emulates a linux based shell that adheres to the following restrictions and crit
 * Insure OS is a linux based platform or running an available linux based distribution
 1. After cloning repository "make myshell" will compile all necessary files.
 2. ./myshell will run %myshell% until "exit" is prompted.
+
+## Known Bugs
+* stat only works for one file
 
